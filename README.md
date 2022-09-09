@@ -1,2 +1,2 @@
 # receita-aneis-de-cebola
-Primeira atividade do Programdores do Futuro.
+Primeira atividade do Programadores do Futuro.
